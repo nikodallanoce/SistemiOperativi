@@ -1,2 +1,2 @@
 # SistemiOperativi
-Progetto di sistemi operativi nel corso di laurea triennale in informatica @ UniFi
+Progetto di sistemi operativi, A.A. 2017/2018. Corso di laurea triennale in informatica @ UniFi
